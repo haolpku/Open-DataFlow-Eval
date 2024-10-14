@@ -1,3 +1,4 @@
+![Repo Logo](./static/images/Logo.png)
 [中文主页](./README.zh-CN.md)
 
 # DataFlow-Eval
